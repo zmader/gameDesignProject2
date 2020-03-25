@@ -838,3 +838,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-16.59.48:722][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
 [2020.03.25-16.59.50:142][605]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_3DGame/gameDesignProject2/Saved/level05E7D780493841C62293CAA3E009A024.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_3DGame/gameDesignProject2/Content/FirstPersonBP/Maps/level.umap'
 [2020.03.25-16.59.50:186][605]LogFileHelpers: Saving map 'level' took 1.517
+[2020.03.25-17.01.09:690][755]BlueprintLog: New page: Compile FirstPersonGameMode
+[2020.03.25-17.01.10:040][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.03.25-17.01.10:877][785]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_3DGame/gameDesignProject2/Saved/FirstPersonGameMode2861B77F49E218941543A48894FEB305.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_3DGame/gameDesignProject2/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.03.25-17.01.12:964][888]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
