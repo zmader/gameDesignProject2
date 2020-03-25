@@ -747,3 +747,726 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-20.39.13:117][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2020.03.25-20.39.13:295][ 52]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Untitled67EF82FD4BEDD8D258968EBAAA61C8C0.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Maps/Untitled.umap'
 [2020.03.25-20.39.13:317][ 52]LogFileHelpers: Saving map 'Untitled' took 0.231
+[2020.03.25-20.45.22:099][539]LogAIModule: Creating AISystem for world menuLevel
+[2020.03.25-20.45.22:102][539]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/menuLevel.menuLevel
+[2020.03.25-20.45.22:138][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.03.25-20.45.22:138][539]Cmd: MAP LOAD FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/FirstPersonBP/Maps/menuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-20.45.22:139][539]LightingResults: New page: Lighting Build
+[2020.03.25-20.45.22:142][539]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2020.03.25-20.45.22:142][539]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2020.03.25-20.45.22:143][539]LoadErrors: New page: Loading map: menuLevel.umap
+[2020.03.25-20.45.22:144][539]LogSlate: Window 'Untitled' being destroyed
+[2020.03.25-20.45.22:178][539]MapCheck: New page: Map Check
+[2020.03.25-20.45.22:178][539]LightingResults: New page: Lighting Build
+[2020.03.25-20.45.22:211][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.03.25-20.45.22:212][539]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-20.45.22:241][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.25-20.45.22:258][539]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-20.45.22:258][539]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2020.03.25-20.45.22:258][539]LogFileHelpers: Loading map 'menuLevel' took 0.120
+[2020.03.25-20.45.25:217][628]LogAIModule: Creating AISystem for world level
+[2020.03.25-20.45.25:425][628]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/level.level
+[2020.03.25-20.45.25:503][628]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.03.25-20.45.25:504][628]Cmd: MAP LOAD FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/FirstPersonBP/Maps/level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-20.45.25:504][628]LightingResults: New page: Lighting Build
+[2020.03.25-20.45.25:504][628]LoadErrors: New page: Loading map: level.umap
+[2020.03.25-20.45.25:504][628]MapCheck: New page: Map Check
+[2020.03.25-20.45.25:504][628]LightingResults: New page: Lighting Build
+[2020.03.25-20.45.25:556][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.25-20.45.25:980][628]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-20.45.26:018][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.03.25-20.45.26:036][628]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-20.45.26:036][628]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2020.03.25-20.45.26:036][628]LogFileHelpers: Loading map 'level' took 0.533
+[2020.03.25-20.45.39:508][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.45.39:587][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.25-20.45.39:597][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-20.45.39:597][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-20.45.39:597][419]PIE: New page: PIE session: level (Mar 25, 2020, 12:45:39 AM)
+[2020.03.25-20.45.39:597][419]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_level
+[2020.03.25-20.45.39:677][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079762s)
+[2020.03.25-20.45.39:678][419]LogAIModule: Creating AISystem for world level
+[2020.03.25-20.45.39:678][419]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2020.03.25-20.45.39:678][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/level.level to /Game/FirstPersonBP/Maps/UEDPIE_0_level.level (0.081067s)
+[2020.03.25-20.45.39:711][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.25-20.45.39:722][419]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-20.45.39:849][419]LogInit: FAudioDevice initialized.
+[2020.03.25-20.45.39:860][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-20.45.39:894][419]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.25-20.45.39:931][419]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_level.level up for play (max tick rate 60) at 2020.03.25-10.45.39
+[2020.03.25-20.45.39:938][419]LogWorld: Bringing up level for play took: 0.042845
+[2020.03.25-20.45.39:952][419]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_level 0.969
+[2020.03.25-20.45.39:952][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-20.45.57:299][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-20.45.57:300][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-20.45.57:311][934]LogSlate: Window 'game3D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.25-20.45.57:391][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-20.45.57:391][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-20.45.57:437][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.25-20.45.57:448][935]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.03.25-20.46.24:628][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.46.46:646][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-20.47.00:887][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.47.10:344][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.47.22:493][120]Cmd: SELECT NONE
+[2020.03.25-20.47.23:765][194]Cmd: TRANSACTION UNDO
+[2020.03.25-20.47.23:765][194]LogEditorTransaction: Undo Select None
+[2020.03.25-20.47.24:198][209]Cmd: TRANSACTION UNDO
+[2020.03.25-20.47.24:198][209]LogEditorTransaction: Undo Rotate Actors
+[2020.03.25-20.47.24:589][221]Cmd: TRANSACTION UNDO
+[2020.03.25-20.47.24:589][221]LogEditorTransaction: Undo Create Actors
+[2020.03.25-20.47.27:298][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-20.47.32:514][506]Cmd: TRANSACTION UNDO
+[2020.03.25-20.47.32:514][506]LogEditorTransaction: Undo Create Actors
+[2020.03.25-20.49.27:482][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-20.49.37:630][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.49.44:845][907]Cmd: TRANSACTION UNDO
+[2020.03.25-20.49.44:845][907]LogEditorTransaction: Undo Create Actors
+[2020.03.25-20.49.51:921][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.50.09:207][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.50.16:299][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.50.24:167][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-20.50.31:395][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.50.37:149][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.50.45:535][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.50.55:679][631]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.03.25-20.50.59:029][829]LogEditorViewport: Clicking on Actor (LMB): roomMess_C (roomMess)
+[2020.03.25-20.51.04:677][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-20.51.13:450][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.51.19:806][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.51.28:068][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.51.40:482][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.51.45:896][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.51.55:345][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.52.00:408][132]Cmd: TRANSACTION UNDO
+[2020.03.25-20.52.00:408][132]LogEditorTransaction: Undo Create Actors
+[2020.03.25-20.52.11:639][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.52.20:299][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.52.26:393][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.52.32:766][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.52.37:033][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.52.44:306][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.52.56:788][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.53.00:984][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.53.04:929][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.53.12:531][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.53.15:467][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.53.19:808][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.53.51:212][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.54.02:446][529]Cmd: TRANSACTION UNDO
+[2020.03.25-20.54.02:446][529]LogEditorTransaction: Undo Rotate Actors
+[2020.03.25-20.54.02:868][545]Cmd: TRANSACTION UNDO
+[2020.03.25-20.54.02:868][545]LogEditorTransaction: Undo Create Actors
+[2020.03.25-20.54.06:164][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.54.06:264][635]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.25-20.54.06:275][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-20.54.06:275][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-20.54.06:275][635]PIE: New page: PIE session: level (Mar 25, 2020, 12:54:06 AM)
+[2020.03.25-20.54.06:275][635]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_level
+[2020.03.25-20.54.06:354][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078633s)
+[2020.03.25-20.54.06:355][635]LogAIModule: Creating AISystem for world level
+[2020.03.25-20.54.06:355][635]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2020.03.25-20.54.06:355][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/level.level to /Game/FirstPersonBP/Maps/UEDPIE_0_level.level (0.079759s)
+[2020.03.25-20.54.06:412][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.03.25-20.54.06:423][635]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-20.54.06:557][635]LogInit: FAudioDevice initialized.
+[2020.03.25-20.54.06:567][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-20.54.06:600][635]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.25-20.54.06:638][635]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_level.level up for play (max tick rate 60) at 2020.03.25-10.54.06
+[2020.03.25-20.54.06:645][635]LogWorld: Bringing up level for play took: 0.044335
+[2020.03.25-20.54.06:660][635]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_level -0.323
+[2020.03.25-20.54.06:661][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-20.54.35:315][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-20.54.35:315][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-20.54.35:329][483]LogSlate: Window 'game3D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.25-20.54.35:415][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-20.54.35:416][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-20.54.35:464][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.25-20.54.35:488][484]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.03.25-20.54.40:350][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.54.45:157][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.54.57:433][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.55.38:042][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-20.56.11:824][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.03.25-20.56.13:001][413]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/level_Auto17AD7C05C4E87261453E0AD92AC3D8487.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/level_Auto1.umap'
+[2020.03.25-20.56.13:007][413]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/level' took 1.217
+[2020.03.25-20.56.13:007][413]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.217
+[2020.03.25-20.57.08:300][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\HammerConstruct.wav)
+[2020.03.25-20.57.08:331][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\HammerConstruct2.wav)
+[2020.03.25-20.57.08:342][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\MachineBroken.wav)
+[2020.03.25-20.57.08:352][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\MachineDamaged.wav)
+[2020.03.25-20.57.08:361][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\Repair.wav)
+[2020.03.25-20.57.08:371][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\SystemBootUp.wav)
+[2020.03.25-20.57.08:381][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\VentilationFixed.wav)
+[2020.03.25-20.57.08:390][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\CriticalMalfunction.wav)
+[2020.03.25-20.57.08:400][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\EngineWorking.wav)
+[2020.03.25-20.57.08:408][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\footsteps.wav)
+[2020.03.25-20.57.08:414][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\Footsteps-faster.wav)
+[2020.03.25-20.57.08:422][976]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\zmade\Desktop\ShuttleTroubleSFX\ShuttleTrouble\GravityWell.wav)
+[2020.03.25-20.57.45:570][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.58.50:727][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.58.51:280][ 77]LogRenderer: Reallocating scene render targets to support 1028x544 Format 10 NumSamples 1 (Frame:20710).
+[2020.03.25-20.58.51:363][ 78]LogRenderer: Reallocating scene render targets to support 1052x544 Format 10 NumSamples 1 (Frame:20712).
+[2020.03.25-20.58.51:455][ 79]LogRenderer: Reallocating scene render targets to support 1064x544 Format 10 NumSamples 1 (Frame:20714).
+[2020.03.25-20.58.51:622][ 80]LogRenderer: Reallocating scene render targets to support 1092x544 Format 10 NumSamples 1 (Frame:20716).
+[2020.03.25-20.58.53:189][168]LogRenderer: Reallocating scene render targets to support 1100x544 Format 10 NumSamples 1 (Frame:20721).
+[2020.03.25-20.58.53:271][169]LogRenderer: Reallocating scene render targets to support 1116x544 Format 10 NumSamples 1 (Frame:20723).
+[2020.03.25-20.58.53:354][170]LogRenderer: Reallocating scene render targets to support 1128x544 Format 10 NumSamples 1 (Frame:20725).
+[2020.03.25-20.58.53:444][171]LogRenderer: Reallocating scene render targets to support 1136x544 Format 10 NumSamples 1 (Frame:20727).
+[2020.03.25-20.58.53:535][172]LogRenderer: Reallocating scene render targets to support 1152x544 Format 10 NumSamples 1 (Frame:20729).
+[2020.03.25-20.58.53:612][173]LogRenderer: Reallocating scene render targets to support 1200x544 Format 10 NumSamples 1 (Frame:20731).
+[2020.03.25-20.58.59:847][493]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave EngineWorking...
+[2020.03.25-20.58.59:940][493]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 952320 while cooking SoundWave /Game/Sound/EngineWorking.EngineWorking.
+[2020.03.25-20.59.13:141][972]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave CriticalMalfunction...
+[2020.03.25-20.59.13:257][972]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1087488 while cooking SoundWave /Game/Sound/CriticalMalfunction.CriticalMalfunction.
+[2020.03.25-20.59.19:537][151]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave footsteps...
+[2020.03.25-20.59.19:576][151]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 301056 while cooking SoundWave /Game/Sound/footsteps.footsteps.
+[2020.03.25-20.59.39:432][853]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave HammerConstruct...
+[2020.03.25-20.59.39:473][853]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 276480 while cooking SoundWave /Game/Sound/HammerConstruct.HammerConstruct.
+[2020.03.25-21.01.18:588][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-21.02.22:693][544]LogEditorViewport: Clicking on Actor (LMB): propTubeCrack_C (propTubeCrack2)
+[2020.03.25-21.02.27:300][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-21.02.31:255][890]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/mapObjects/propTubeCrack.propTubeCrack
+[2020.03.25-21.02.40:288][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-21.04.32:042][804]BlueprintLog: New page: Compile propTubeCrack
+[2020.03.25-21.04.32:284][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.03.25-21.04.32:296][804]LogScript: Warning: Accessed None trying to read property Engine Room
+	propTubeCrack_C /Engine/Transient.World_46:PersistentLevel.propTubeCrack_C_0
+	Function /Game/FirstPersonBP/Blueprints/mapObjects/propTubeCrack.propTubeCrack_C:ExecuteUbergraph_propTubeCrack:0085
+[2020.03.25-21.04.35:238][864]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.25-21.04.35:251][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-21.04.35:251][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-21.04.35:251][864]PIE: New page: PIE session: level (Mar 25, 2020, 1:04:35 AM)
+[2020.03.25-21.04.35:251][864]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_level
+[2020.03.25-21.04.35:339][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087020s)
+[2020.03.25-21.04.35:339][864]LogAIModule: Creating AISystem for world level
+[2020.03.25-21.04.35:339][864]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2020.03.25-21.04.35:339][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/level.level to /Game/FirstPersonBP/Maps/UEDPIE_0_level.level (0.087857s)
+[2020.03.25-21.04.35:374][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.03.25-21.04.35:385][864]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-21.04.35:516][864]LogInit: FAudioDevice initialized.
+[2020.03.25-21.04.35:527][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-21.04.35:559][864]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.25-21.04.35:598][864]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_level.level up for play (max tick rate 60) at 2020.03.25-11.04.35
+[2020.03.25-21.04.35:607][864]LogWorld: Bringing up level for play took: 0.047755
+[2020.03.25-21.04.35:623][864]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_level 0.64
+[2020.03.25-21.04.35:623][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-21.05.47:571][989]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=7.41 Y=257.96 Z=0.00 Location: X=319.01 Y=490.82 Z=524.33 Normal: X=0.15 Y=-0.67 Z=0.73 PenetrationDepth:0.362 Actor:propImpactHammer_C_0 Component:Cube3 BoneName:None (0 other events since notify)
+[2020.03.25-21.05.53:936][178]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave VentilationFixed...
+[2020.03.25-21.05.53:990][178]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 464896 while cooking SoundWave /Game/Sound/VentilationFixed.VentilationFixed.
+[2020.03.25-21.05.57:841][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-21.05.57:841][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-21.05.57:853][294]LogSlate: Window 'game3D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.25-21.05.57:945][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-21.05.57:946][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/level.level:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level' with GeneratedClass '/Game/FirstPersonBP/Maps/level.level_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/level.level:PersistentLevel.level'
+[2020.03.25-21.05.57:999][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.03.25-21.05.58:018][295]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.03.25-21.05.59:908][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-21.06.10:713][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-21.07.09:450][157]LogEditorViewport: Clicking on Actor (LMB): propImpactHammerHandle_C (propImpactHammerHandle2)
+[2020.03.25-21.07.10:260][203]LogEditorViewport: Clicking on Actor (LMB): roomCockpit_C (roomCockpit)
+[2020.03.25-21.07.14:351][399]LogEditorViewport: Clicking on Actor (LMB): roomMain_C (mainRoom)
+[2020.03.25-21.07.15:488][455]LogEditorViewport: Clicking on Actor (LMB): roomMain_C (mainRoom)
+[2020.03.25-21.07.21:428][781]LogEditorViewport: Clicking on Actor (LMB): engineRoom_C (engineRoom)
+[2020.03.25-21.07.21:840][800]LogEditorViewport: Clicking on Actor (LMB): propEnginePlug_C (propEnginePlug)
+[2020.03.25-21.07.25:043][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-21.09.28:642][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-21.09.32:950][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TestDoorwayLeft)
+[2020.03.25-21.10.01:317][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.03.25-21.10.02:531][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/level_Auto207F2A49C4D7FBF3E9FAE548FF4505C08.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/level_Auto2.umap'
+[2020.03.25-21.10.02:537][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/level' took 1.259
+[2020.03.25-21.10.02:537][400]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.259
+[2020.03.25-21.10.02:542][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/mapObjects/propTubeCrack] ([1] browsable assets)...
+[2020.03.25-21.10.02:554][400]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/mapObjects/propTubeCrack.propTubeCrack]
+[2020.03.25-21.10.02:554][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/mapObjects/propTubeCrack]
+[2020.03.25-21.10.02:585][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/propTubeCrack_Auto2A3F24E374D1D253A84B7AAA9F7871979.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/mapObjects/propTubeCrack_Auto2.uasset'
+[2020.03.25-21.10.02:605][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/HammerConstruct] ([1] browsable assets)...
+[2020.03.25-21.10.02:610][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/HammerConstruct.HammerConstruct]
+[2020.03.25-21.10.02:610][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/HammerConstruct]
+[2020.03.25-21.10.02:614][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/HammerConstruct_Auto212AE00FF4DCD74C978B53D8258021179.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/HammerConstruct_Auto2.uasset'
+[2020.03.25-21.10.02:615][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/HammerConstruct2] ([1] browsable assets)...
+[2020.03.25-21.10.02:620][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/HammerConstruct2.HammerConstruct2]
+[2020.03.25-21.10.02:620][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/HammerConstruct2]
+[2020.03.25-21.10.02:626][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/HammerConstruct2_Auto28134A6CE465CBEE5615266B81C9393EB.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/HammerConstruct2_Auto2.uasset'
+[2020.03.25-21.10.02:628][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/MachineBroken] ([1] browsable assets)...
+[2020.03.25-21.10.02:634][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/MachineBroken.MachineBroken]
+[2020.03.25-21.10.02:634][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/MachineBroken]
+[2020.03.25-21.10.02:743][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/MachineBroken_Auto2C253977B4F1E7900E13FD3BFA7FAC90D.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/MachineBroken_Auto2.uasset'
+[2020.03.25-21.10.02:745][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/MachineDamaged] ([1] browsable assets)...
+[2020.03.25-21.10.02:750][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/MachineDamaged.MachineDamaged]
+[2020.03.25-21.10.02:750][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/MachineDamaged]
+[2020.03.25-21.10.02:756][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/MachineDamaged_Auto2E0C0EC034DE6D98E888BBE9673FE59BD.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/MachineDamaged_Auto2.uasset'
+[2020.03.25-21.10.02:757][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/Repair] ([1] browsable assets)...
+[2020.03.25-21.10.02:762][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/Repair.Repair]
+[2020.03.25-21.10.02:762][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Repair]
+[2020.03.25-21.10.02:769][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Repair_Auto23B150908476BA65A082F9D85AFC71AF5.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/Repair_Auto2.uasset'
+[2020.03.25-21.10.02:770][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/SystemBootUp] ([1] browsable assets)...
+[2020.03.25-21.10.02:775][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/SystemBootUp.SystemBootUp]
+[2020.03.25-21.10.02:775][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SystemBootUp]
+[2020.03.25-21.10.02:799][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/SystemBootUp_Auto253F4822444B2B5D5635FBBACF9F77901.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/SystemBootUp_Auto2.uasset'
+[2020.03.25-21.10.02:801][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/VentilationFixed] ([1] browsable assets)...
+[2020.03.25-21.10.02:807][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/VentilationFixed.VentilationFixed]
+[2020.03.25-21.10.02:807][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/VentilationFixed]
+[2020.03.25-21.10.02:844][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/VentilationFixed_Auto2413F91CF4EBC12795B2A49982EB189A3.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/VentilationFixed_Auto2.uasset'
+[2020.03.25-21.10.02:846][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/CriticalMalfunction] ([1] browsable assets)...
+[2020.03.25-21.10.02:851][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/CriticalMalfunction.CriticalMalfunction]
+[2020.03.25-21.10.02:851][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/CriticalMalfunction]
+[2020.03.25-21.10.02:857][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/CriticalMalfunction_Auto21CAF76F0465D74724DFAB8A1C746A285.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/CriticalMalfunction_Auto2.uasset'
+[2020.03.25-21.10.02:858][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/EngineWorking] ([1] browsable assets)...
+[2020.03.25-21.10.02:862][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/EngineWorking.EngineWorking]
+[2020.03.25-21.10.02:862][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/EngineWorking]
+[2020.03.25-21.10.02:868][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/EngineWorking_Auto21C66920C4F5DCBA4F6F4A69EAEC21B32.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/EngineWorking_Auto2.uasset'
+[2020.03.25-21.10.02:870][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/footsteps] ([1] browsable assets)...
+[2020.03.25-21.10.02:875][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/footsteps.footsteps]
+[2020.03.25-21.10.02:875][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/footsteps]
+[2020.03.25-21.10.02:880][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/footsteps_Auto25982EF3240C98C4A426A63A2D5B77F29.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/footsteps_Auto2.uasset'
+[2020.03.25-21.10.02:881][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/Footsteps-faster] ([1] browsable assets)...
+[2020.03.25-21.10.02:886][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/Footsteps-faster.Footsteps-faster]
+[2020.03.25-21.10.02:886][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Footsteps-faster]
+[2020.03.25-21.10.02:891][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Footsteps-faster_Auto2D1C6547446AA0E264436E2809FA1736E.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/Footsteps-faster_Auto2.uasset'
+[2020.03.25-21.10.02:893][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/GravityWell] ([1] browsable assets)...
+[2020.03.25-21.10.02:899][400]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/GravityWell.GravityWell]
+[2020.03.25-21.10.02:899][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/GravityWell]
+[2020.03.25-21.10.02:905][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/GravityWell_Auto229228D394377540C8A736C9D6ADD1133.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/GravityWell_Auto2.uasset'
+[2020.03.25-21.10.02:906][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/EngineWorking_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:906][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/EngineWorking_Cue]
+[2020.03.25-21.10.02:910][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/EngineWorking_Cue_Auto2171542734AD757D4899FF4BFC75A87D8.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/EngineWorking_Cue_Auto2.uasset'
+[2020.03.25-21.10.02:911][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/CriticalMalfunction_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:911][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/CriticalMalfunction_Cue]
+[2020.03.25-21.10.02:914][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/CriticalMalfunction_Cue_Auto2D768537A479791F104EEFC862174FAE8.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/CriticalMalfunction_Cue_Auto2.uasset'
+[2020.03.25-21.10.02:915][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/footsteps_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:915][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/footsteps_Cue]
+[2020.03.25-21.10.02:919][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/footsteps_Cue_Auto2618F399F48F54188FF8781A88534123D.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/footsteps_Cue_Auto2.uasset'
+[2020.03.25-21.10.02:920][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Footsteps-faster_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:920][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Footsteps-faster_Cue]
+[2020.03.25-21.10.02:922][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Footsteps-faster_Cue_Auto2D4E6343A4F865F21B188D083D49C2D04.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/Footsteps-faster_Cue_Auto2.uasset'
+[2020.03.25-21.10.02:923][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/GravityWell_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:923][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/GravityWell_Cue]
+[2020.03.25-21.10.02:926][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/GravityWell_Cue_Auto22C62DD934C610CF2FDCEEB8B65898A16.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/GravityWell_Cue_Auto2.uasset'
+[2020.03.25-21.10.02:927][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/HammerConstruct_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:927][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/HammerConstruct_Cue]
+[2020.03.25-21.10.02:930][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/HammerConstruct_Cue_Auto26880730F4A26EAD4950152B3A135182B.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/HammerConstruct_Cue_Auto2.uasset'
+[2020.03.25-21.10.02:931][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/HammerConstruct2_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:931][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/HammerConstruct2_Cue]
+[2020.03.25-21.10.02:935][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/HammerConstruct2_Cue_Auto2ED1A110348A6F41318D6CAB8CFDDBAC5.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/HammerConstruct2_Cue_Auto2.uasset'
+[2020.03.25-21.10.02:937][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/MachineDamaged_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:938][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/MachineDamaged_Cue]
+[2020.03.25-21.10.02:941][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/MachineDamaged_Cue_Auto2FC231A2F471FDA3F6A7671B48C276412.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/MachineDamaged_Cue_Auto2.uasset'
+[2020.03.25-21.10.02:944][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/MachineBroken_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.02:944][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/MachineBroken_Cue]
+[2020.03.25-21.10.02:999][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/MachineBroken_Cue_Auto2B6E7A63C4B772794A91D759D20F3DB15.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/MachineBroken_Cue_Auto2.uasset'
+[2020.03.25-21.10.03:000][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Repair_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.03:000][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Repair_Cue]
+[2020.03.25-21.10.03:004][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Repair_Cue_Auto2B0EFEE214480891F4F1C33BAFE49B092.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/Repair_Cue_Auto2.uasset'
+[2020.03.25-21.10.03:006][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SystemBootUp_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.03:006][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SystemBootUp_Cue]
+[2020.03.25-21.10.03:009][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/SystemBootUp_Cue_Auto2BDE463494A5532D5712002B4A43EE3D7.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/SystemBootUp_Cue_Auto2.uasset'
+[2020.03.25-21.10.03:010][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/VentilationFixed_Cue] ([1] browsable assets)...
+[2020.03.25-21.10.03:011][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/VentilationFixed_Cue]
+[2020.03.25-21.10.03:013][400]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/VentilationFixed_Cue_Auto2E2ACDDB741E99C952E53FA8807E4B7BD.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Autosaves/Game/Sound/VentilationFixed_Cue_Auto2.uasset'
+[2020.03.25-21.10.03:014][400]LogFileHelpers: Auto-saving content packages took 0.473
+[2020.03.25-21.10.07:443][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-21.12.29:501][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-21.16.52:121][496]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-21.18.42:099][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-21.25.33:696][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.03.25-21.25.33:751][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.25-21.25.35:256][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/level431C19064F3D182BC8276FA4EB53E627.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/FirstPersonBP/Maps/level.umap'
+[2020.03.25-21.25.35:282][542]LogFileHelpers: Saving map 'level' took 1.568
+[2020.03.25-21.25.35:311][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/propTubeCrack2A2010394ACA6E7800FFE59A37919EA7.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/FirstPersonBP/Blueprints/mapObjects/propTubeCrack.uasset'
+[2020.03.25-21.25.35:317][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/HammerConstruct" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/HammerConstruct.uasset" SILENT=true
+[2020.03.25-21.25.35:319][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/HammerConstruct91904F0D4A24E2EF75DA639B6EB763AD.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/HammerConstruct.uasset'
+[2020.03.25-21.25.35:355][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/HammerConstruct2" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/HammerConstruct2.uasset" SILENT=true
+[2020.03.25-21.25.35:357][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/HammerConstruct20C3A74A64752D695AFDB17AB3F245C05.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/HammerConstruct2.uasset'
+[2020.03.25-21.25.35:405][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MachineBroken" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/MachineBroken.uasset" SILENT=true
+[2020.03.25-21.25.35:444][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/MachineBroken2EBD7CCC473D88950099F58AD4679896.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/MachineBroken.uasset'
+[2020.03.25-21.25.35:456][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MachineDamaged" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/MachineDamaged.uasset" SILENT=true
+[2020.03.25-21.25.35:459][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/MachineDamaged6ABC2C9D4C8B403615AFEAABACC1649A.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/MachineDamaged.uasset'
+[2020.03.25-21.25.35:506][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Repair" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/Repair.uasset" SILENT=true
+[2020.03.25-21.25.35:509][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Repair94DD3C994ACE6DECDC35BE8526E69B9F.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/Repair.uasset'
+[2020.03.25-21.25.35:558][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SystemBootUp" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/SystemBootUp.uasset" SILENT=true
+[2020.03.25-21.25.35:560][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/SystemBootUp78CF9DDC4179C6CFD22BB9A2013BE761.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/SystemBootUp.uasset'
+[2020.03.25-21.25.35:608][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/VentilationFixed" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/VentilationFixed.uasset" SILENT=true
+[2020.03.25-21.25.35:611][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/VentilationFixed7DCE76084E7F92787EFD83AEF68E716C.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/VentilationFixed.uasset'
+[2020.03.25-21.25.35:658][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/CriticalMalfunction" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/CriticalMalfunction.uasset" SILENT=true
+[2020.03.25-21.25.35:664][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/CriticalMalfunction6754AF9F42C1993AF0E44BB16E955D47.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/CriticalMalfunction.uasset'
+[2020.03.25-21.25.35:709][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/EngineWorking" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/EngineWorking.uasset" SILENT=true
+[2020.03.25-21.25.35:711][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/EngineWorking8B9D8E984E2B5DC526EDA1ADBFFE2C30.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/EngineWorking.uasset'
+[2020.03.25-21.25.35:759][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/footsteps" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/footsteps.uasset" SILENT=true
+[2020.03.25-21.25.35:761][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/footsteps79B5AD6449A239D9DCC5B5AABAA4BA67.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/footsteps.uasset'
+[2020.03.25-21.25.35:810][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Footsteps-faster" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/Footsteps-faster.uasset" SILENT=true
+[2020.03.25-21.25.35:812][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Footsteps-faster07F526D943466C006DDFAE9591DECED1.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/Footsteps-faster.uasset'
+[2020.03.25-21.25.35:860][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/GravityWell" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/GravityWell.uasset" SILENT=true
+[2020.03.25-21.25.35:872][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/GravityWell7ED724B240C40BCFCED3CE9660B4FABF.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/GravityWell.uasset'
+[2020.03.25-21.25.35:911][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/EngineWorking_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/EngineWorking_Cue.uasset" SILENT=true
+[2020.03.25-21.25.35:913][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/EngineWorking_Cue742EA24A49EDDCF81BEE4DBD7915AA38.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/EngineWorking_Cue.uasset'
+[2020.03.25-21.25.35:964][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/CriticalMalfunction_CueF77DDB8D4F7522E68F20C8B76914B0A6.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/CriticalMalfunction_Cue.uasset'
+[2020.03.25-21.25.36:012][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/footsteps_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/footsteps_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:015][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/footsteps_Cue731B8F044DC4F8BB93B69AA62F966BC6.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/footsteps_Cue.uasset'
+[2020.03.25-21.25.36:063][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Footsteps-faster_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/Footsteps-faster_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:066][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Footsteps-faster_Cue59F88DB444F5878B4E41BE8B8B35E491.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/Footsteps-faster_Cue.uasset'
+[2020.03.25-21.25.36:113][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/GravityWell_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/GravityWell_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:117][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/GravityWell_Cue6A1B7AE043848B0F9BA9AFA00CCF4E34.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/GravityWell_Cue.uasset'
+[2020.03.25-21.25.36:164][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/HammerConstruct_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/HammerConstruct_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:171][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/HammerConstruct_CueD3BE1ACA44DA5E70C17BD0A0838FBC13.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/HammerConstruct_Cue.uasset'
+[2020.03.25-21.25.36:214][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/HammerConstruct2_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/HammerConstruct2_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:244][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/HammerConstruct2_Cue4FE2FF334F20F7C9E78560896F681A00.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/HammerConstruct2_Cue.uasset'
+[2020.03.25-21.25.36:264][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MachineDamaged_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/MachineDamaged_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:268][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/MachineDamaged_Cue14A27AE44C45FA81CAA417937EDCA195.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/MachineDamaged_Cue.uasset'
+[2020.03.25-21.25.36:315][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MachineBroken_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/MachineBroken_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:318][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/MachineBroken_Cue7E3F423E45E5E5DCB70FA88F35EAAAD6.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/MachineBroken_Cue.uasset'
+[2020.03.25-21.25.36:366][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Repair_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/Repair_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:369][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/Repair_Cue1B951B7F4DDA145028061B8CE4D56E22.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/Repair_Cue.uasset'
+[2020.03.25-21.25.36:416][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SystemBootUp_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/SystemBootUp_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:430][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/SystemBootUp_Cue61FA308F43B1A2D083F5AC86E3E73786.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/SystemBootUp_Cue.uasset'
+[2020.03.25-21.25.36:466][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/VentilationFixed_Cue" FILE="../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/VentilationFixed_Cue.uasset" SILENT=true
+[2020.03.25-21.25.36:470][542]LogSavePackage: Moving '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Saved/VentilationFixed_Cue887066074F6E92B515DF84B2062E2652.tmp' to '../../../../Projects/2.24/project2/FINAL/gameDesignProject2/gameDesignProject2/Content/Sound/VentilationFixed_Cue.uasset'
+[2020.03.25-21.25.38:587][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.03.25-21.25.38:643][621]LogSlate: Window 'propTubeCrack' being destroyed
+[2020.03.25-21.25.38:650][621]LogScript: Warning: Accessed None trying to read property Engine Room
+	propTubeCrack_C /Engine/Transient.World_60:PersistentLevel.propTubeCrack_C_0
+	Function /Game/FirstPersonBP/Blueprints/mapObjects/propTubeCrack.propTubeCrack_C:ExecuteUbergraph_propTubeCrack:0085
+[2020.03.25-21.25.38:707][621]LogSlate: Window 'game3D - Unreal Editor' being destroyed
+[2020.03.25-21.25.38:709][621]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.25-21.25.38:910][622]Cmd: QUIT_EDITOR
+[2020.03.25-21.25.39:401][622]LogExit: Preparing to exit.
+[2020.03.25-21.25.40:695][622]LogExit: Editor shut down
+[2020.03.25-21.25.40:695][622]LogExit: Transaction tracking system shut down
+[2020.03.25-21.25.40:924][622]LogExit: Object subsystem successfully closed.
+[2020.03.25-21.25.40:948][622]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.25-21.25.40:953][622]LogD3D11RHI: Shutdown
+[2020.03.25-21.25.40:953][622]LogD3D11RHI: CleanupD3DDevice
+[2020.03.25-21.25.40:954][622]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.25-21.25.40:954][622]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.25-21.25.40:954][622]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.25-21.25.40:954][622]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.25-21.25.40:954][622]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.25-21.25.40:954][622]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.25-21.25.41:217][622]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.25-21.25.41:226][622]LogModuleManager: Shutting down and abandoning module StatsViewer (648)
+[2020.03.25-21.25.41:226][622]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2020.03.25-21.25.41:226][622]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (644)
+[2020.03.25-21.25.41:226][622]LogModuleManager: Shutting down and abandoning module Voice (642)
+[2020.03.25-21.25.41:226][622]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2020.03.25-21.25.41:226][622]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.03.25-21.25.41:227][622]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.03.25-21.25.41:228][622]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.03.25-21.25.41:310][622]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.03.25-21.25.41:311][622]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.03.25-21.25.41:312][622]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.03.25-21.25.41:312][622]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.03.25-21.25.41:312][622]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.03.25-21.25.41:354][622]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.03.25-21.25.41:360][622]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.03.25-21.25.41:360][622]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.03.25-21.25.41:362][622]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.03.25-21.25.41:366][622]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.03.25-21.25.41:588][622]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.25-21.25.41:589][622]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.25-21.25.41:691][622]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.03.25-21.25.41:792][622]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.03.25-21.25.41:792][622]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.03.25-21.25.41:793][622]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.03.25-21.25.41:794][622]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.03.25-21.25.41:795][622]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.03.25-21.25.41:892][622]LogDerivedDataCache: Shutdown
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.03.25-21.25.41:893][622]LogXGEController: Cleaning working directory: C:/Users/zmade/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.03.25-21.25.41:893][622]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.03.25-21.25.41:894][622]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.03.25-21.25.41:894][622]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.03.25-21.25.41:894][622]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.03.25-21.25.41:894][622]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.03.25-21.25.41:894][622]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.03.25-21.25.41:895][622]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.03.25-21.25.41:895][622]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.03.25-21.25.41:895][622]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.03.25-21.25.41:895][622]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.03.25-21.25.41:901][622]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.03.25-21.25.41:902][622]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.03.25-21.25.41:902][622]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.03.25-21.25.41:902][622]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.25-21.25.41:902][622]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.03.25-21.25.41:902][622]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.03.25-21.25.41:902][622]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.03.25-21.25.41:902][622]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.03.25-21.25.41:902][622]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.03.25-21.25.41:903][622]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.03.25-21.25.41:903][622]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.03.25-21.25.41:926][622]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.03.25-21.25.41:926][622]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.25-21.25.41:926][622]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8A582279-46A9-C558-6DDD-16927355D8D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=bc6d647d42dc8952a6080eab70544dfb%7C3d14cfdae3784c34a7a412ac8a38a415%7C491aa16b-ea1d-47e6-a17e-adc13ee4d126&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.25-21.25.41:941][622]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.03.25-21.25.41:942][622]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.03.25-21.25.41:944][622]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.03.25-21.25.41:950][622]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.03.25-21.25.41:950][622]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.03.25-21.25.41:951][622]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.25-21.25.41:951][622]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.25-21.25.41:951][622]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.25-21.25.41:951][622]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.25-21.25.41:951][622]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.25-21.25.41:951][622]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.25-21.25.41:951][622]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.25-21.25.41:952][622]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.25-21.25.41:961][622]LogExit: Exiting.
+[2020.03.25-21.25.41:975][622]Log file closed, 03/25/20 11:25:41
